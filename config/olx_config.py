@@ -1,0 +1,5 @@
+olx_url = 'http://olx.ua/'
+categoty_zhivotnye = '//a[@href="http://olx.ua/zhivotnye/"]'
+categoty_drugie_zhivotnye = '//a[@href="http://olx.ua/zhivotnye/drugie-zhivotnye/"]'
+search_field_id = 'search-text'
+search_submit_id = 'search-submit'
